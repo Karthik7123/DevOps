@@ -44,7 +44,7 @@
 		
 		 <repository>
   			<id>nexusRepo</id>
- 			<url>http://100.31.109.134:8081/repository/Project_Repo/</url>
+ 			<url>http://34.229.151.86:8081/repository/MyRepo/</url>
 		 </repository>
   	</distributionManagement>
 	
